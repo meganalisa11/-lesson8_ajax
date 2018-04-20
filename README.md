@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 20th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Hubbard)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we created an application using API, JSON data, and the Ajax method to display movie information to a user.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://meganalisa11.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to use the Ajax method to take data from the server without having to reload the page.)
+2. (Learned how to and what it means to retrieve JSON HTTP response data from a server, in this case the API server. )
+3. (Learned the behind the scenes of using a 3rd party server to answer the HTTP request and get back an answer.)
